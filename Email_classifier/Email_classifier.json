@@ -13,12 +13,7 @@
       ],
       "id": "6d34fdd3-93f1-422a-9ade-8e1d9fec48ba",
       "name": "Google Gemini Chat Model",
-      "credentials": {
-        "googlePalmApi": {
-          "id": "aWBEhxs4U5fXKcnq",
-          "name": "Google Gemini(PaLM) Api account"
-        }
-      }
+      "credentials": {}
     },
     {
       "parameters": {
@@ -39,12 +34,7 @@
       ],
       "id": "b6dbabc7-1c87-472a-bee3-40ec3f033cfc",
       "name": "Email Received",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "9d9qn72ha576QSNc",
-          "name": "Gmail account"
-        }
-      }
+      "credentials": {}
     },
     {
       "parameters": {
@@ -95,12 +85,7 @@
       "id": "c8018448-b0c5-419d-96b5-78192438f226",
       "name": "High Priority",
       "webhookId": "1bd22a5e-9f60-4066-80f5-85dc99029cae",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "9d9qn72ha576QSNc",
-          "name": "Gmail account"
-        }
-      }
+      "credentials": {}
     },
     {
       "parameters": {
@@ -119,12 +104,7 @@
       "id": "5e323196-8248-4c52-9297-45ff4cc459ac",
       "name": "Medium Priority",
       "webhookId": "2cf79c85-7592-479a-8cf3-36d80151811d",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "9d9qn72ha576QSNc",
-          "name": "Gmail account"
-        }
-      }
+      "credentials": {}
     },
     {
       "parameters": {
@@ -143,12 +123,7 @@
       "id": "c965a7e9-887d-4bb1-9fa4-384de0d1d320",
       "name": "Low Priority",
       "webhookId": "0b0eb260-e0dd-4e3e-9229-2013e90afb36",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "9d9qn72ha576QSNc",
-          "name": "Gmail account"
-        }
-      }
+      "credentials": {}
     },
     {
       "parameters": {
@@ -234,8 +209,7 @@
   },
   "versionId": "b446f89b-9642-4078-9515-4c764daf8e04",
   "meta": {
-    "templateCredsSetupCompleted": true,
-    "instanceId": "acffd2c917390de21873e220d97071da56c624fc1224ea4c9ed2a7e9f1da6c96"
+    "templateCredsSetupCompleted": true
   },
   "id": "G3p2W3cZTd7lhHnx",
   "tags": []
