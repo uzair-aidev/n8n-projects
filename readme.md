@@ -2,6 +2,8 @@
 
 This repository contains a collection of my n8n projects. Each project is designed to automate a specific task or workflow.
 
+## All my n8n Projects in this repo (beginner + advanced).
+
 ## Projects
 
 Here is a list of the projects currently available in this repository:
