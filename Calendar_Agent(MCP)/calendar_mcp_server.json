@@ -19,7 +19,7 @@
           "__rl": true,
           "value": "REPLACE_WITH_YOUR_CALENDAR_ID",
           "mode": "list",
-          "cachedResultName": "Oakside Dental Center"
+          "cachedResultName": "Dental Center"
         },
         "eventId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Event_ID', ``, 'string') }}",
         "updateFields": {
